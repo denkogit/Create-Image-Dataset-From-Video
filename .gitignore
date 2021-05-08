@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 dataenv/
-labelimg/
+labelimgf/
 
 
 __pycache__/
